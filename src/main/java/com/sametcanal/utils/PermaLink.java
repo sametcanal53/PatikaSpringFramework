@@ -1,5 +1,5 @@
 package com.sametcanal.utils;
 
 public class PermaLink {
-    // Github : 
+    // Github : https://github.com/sametcanal53/PatikaSpringFramework
 }
