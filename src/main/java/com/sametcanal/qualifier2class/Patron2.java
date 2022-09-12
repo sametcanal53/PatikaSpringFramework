@@ -1,4 +1,4 @@
-package com.sametcanal.qualifier;
+package com.sametcanal.qualifier2class;
 
 @QualifierMultiple
 public class Patron2 implements PatronInterface {

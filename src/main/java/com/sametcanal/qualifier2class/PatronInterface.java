@@ -1,4 +1,4 @@
-package com.sametcanal.qualifier;
+package com.sametcanal.qualifier2class;
 
 public interface PatronInterface {
     // @Alternative: Aynı anda sadece 1 tane proje çalışıyor diğerleri kapalı
