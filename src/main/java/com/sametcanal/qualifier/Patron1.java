@@ -1,13 +1,13 @@
-package com.sametcanal.alternative;
+package com.sametcanal.qualifier;
 
-import javax.enterprise.inject.Alternative;
+import javax.enterprise.inject.Default;
 
-@Alternative
+@Default
 public class Patron1 implements PatronInterface {
 
     // @Alternative: Aynı anda sadece 1 tane proje çalışıyor diğerleri kapalı
     @Override
     public String surum(String data) {
-        return "Patron 1 "+data;
+        return "Default Data : "+data;
     }
 }
