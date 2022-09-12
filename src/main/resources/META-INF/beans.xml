@@ -13,4 +13,9 @@
     <interceptors>
         <class>com.sametcanal.aop.interceptor.InterceptorYolKesiciAsilIs</class>
     </interceptors>
+
+    <!-- decorator -->
+    <decorators>
+        <class>com.sametcanal.aop.decorator.EvDecorator</class>
+    </decorators>
 </beans>
